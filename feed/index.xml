@@ -10,7 +10,7 @@
 <channel>
 	<title>e2detailing.us</title>
 	<atom:link href="http://e2.detailing.us/feed/" rel="self" type="application/rss+xml" />
-	<link>http://e2.detailing.us</link>
+	<link>http://e2.detailing.us/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 09 Feb 2021 04:39:14 +0000</lastBuildDate>
 	<language>en-US</language>
